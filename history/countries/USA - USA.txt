@@ -1,0 +1,50 @@
+﻿capital = 361 # Washington DC
+
+oob = "USA_2000"
+
+starting_train_buffer = 5
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_trucks = 1
+	tech_recon = 1
+	tech_support = 1		
+	tech_engineers = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	motorised_infantry = 1
+	fuel_silos = 1
+	fuel_refining = 1
+	marines = 1
+	basic_train = 1
+	engine_tech_1 = 1
+}
+
+set_politics = {
+    ruling_party = liberalism
+    elections_allowed = yes
+    last_election = "1998.06.1"
+    election_frequency = 60
+}
+set_popularities = {
+    socialism = 5
+    eurasian_system = 0
+    reformed_communism = 3
+    totalitarian_socialist = 0
+    social_liberal = 34
+    liberalism = 37
+    conservative = 16
+    monarchist = 3
+    nationalism = 2
+}
+
+
+
+
+# LEADERS #
+
+recruit_character = USA_Bill_Clinton	
+
+

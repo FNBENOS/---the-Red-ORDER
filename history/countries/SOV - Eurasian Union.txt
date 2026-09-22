@@ -1,0 +1,122 @@
+capital = 1082
+
+set_oob = "SOV_2000"
+set_politics = {
+    ruling_party = eurasian_system
+	last_election = "1991.7.1"
+	election_frequency = 48
+    elections_allowed = no
+}
+
+set_popularities = {
+    eurasian_system = 47
+	reformed_communism = 17
+	socialism = 14
+	totalitarian_socialist = 10
+	social_liberal = 5
+    liberalism = 7
+	conservative = 0
+    nationalism = 0
+    monarchist = 0
+}
+		
+
+		
+				
+SOV = {
+    create_faction = "Eurasian Socialist Union"
+}
+
+SOV = {
+    set_autonomy = {
+        target = CEU
+        autonomy_state = autonomy_integrated_puppet
+        freedom_level = 0.5
+    }
+}
+SOV = {
+    set_autonomy = {
+        target = SCC
+        autonomy_state = autonomy_integrated_puppet
+        freedom_level = 0.5
+    }
+}
+SOV = {
+    set_autonomy = {
+        target = BLK
+        autonomy_state = autonomy_integrated_puppet
+        freedom_level = 0.5
+    }
+}
+SOV = {
+    set_autonomy = {
+        target = WEU
+        autonomy_state = autonomy_integrated_puppet
+        freedom_level = 0.5
+    }
+}
+SOV = {
+    set_autonomy = {
+        target = PER
+        autonomy_state = autonomy_integrated_puppet
+        freedom_level = 0.5
+    }
+}
+SOV = {
+    set_autonomy = {
+        target = EAN
+        autonomy_state = autonomy_integrated_puppet
+        freedom_level = 0.5
+    }
+}
+			
+			
+			
+			
+			
+			
+			
+			
+			
+
+
+		
+
+
+		##LEADERS##
+		
+recruit_character = SOV_Mikhail_Gorbachev		   
+recruit_character = SOV_Eurasian_Communist_Party
+
+
+
+
+
+
+
+
+
+
+ 
+ ##ADVISORS##
+ recruit_character = SOV_Eurasian_Communist_Party
+
+
+
+
+
+
+
+
+
+
+ ##SCIENTISTS##
+  
+  
+  
+  
+  
+  
+  
+ #########NO WAY SOMEONE OTHER THAN ME IS READING THIS#########
+ 

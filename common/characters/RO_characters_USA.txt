@@ -1,0 +1,17 @@
+characters = {
+	USA_Bill_Clinton = {
+		name = "Bill Clinton"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/USA/BILL.dds"
+			}
+		}
+		country_leader = {
+			ideology = liberal
+			traits = { }
+			desc = ""
+			expire = "2025.1.1.1"
+			id = -1
+		}
+	}
+}

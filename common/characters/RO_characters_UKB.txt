@@ -1,0 +1,17 @@
+characters = {
+	UKB_Tony_Blair = {
+		name = "Tony Blair"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/UKB/TonyBlair.dds"
+			}
+		}
+		country_leader = {
+			ideology = liberal
+			traits = { }
+			desc = ""
+			expire = "2025.1.1.1"
+			id = -1
+		}
+	}
+}

@@ -1,0 +1,14 @@
+spriteTypes = {
+	
+	spriteType = {
+		name = "GFX_report_event_SOV_death_leader_1"
+		texturefile = "gfx/event_pictures/report_event_SOV_death_leader_1.dds"
+	}
+		spriteType = {
+		name = "GFX_report_event_SOV_czechs"
+		texturefile = "gfx/event_pictures/report_event_SOV_czechs.dds"
+	}
+			spriteType = {
+		name = "GFX_news_event_ro_001"
+		texturefile = "gfx/event_pictures/news_event_ro_001.dds"
+	}

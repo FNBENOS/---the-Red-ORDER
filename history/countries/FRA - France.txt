@@ -1,0 +1,15 @@
+﻿capital = 16 # Paris/Ile de France
+2000.1.1.1 = {
+set_politics = {
+    ruling_party = communism
+    elections_allowed = no
+}
+
+set_popularities = {
+    communism = 85
+    democratic = 15
+    fascism = 0
+    neutrality = 0
+}
+
+}

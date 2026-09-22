@@ -1,0 +1,23 @@
+capital = 9
+
+1939.1.1 = {
+set_politics = {
+    ruling_party = eurasian_system
+    elections_allowed = yes
+    last_election = "1998.1.1"
+    election_frequency = 48
+}
+
+set_popularities = {
+    eurasian_system = 41
+	reformed_communism = 9
+	socialism = 5
+	totalitarian_socialist = 4
+	social_liberal = 8
+    liberalism = 24
+	conservative = 9
+    nationalism = 0
+    monarchist = 0
+}
+
+           }

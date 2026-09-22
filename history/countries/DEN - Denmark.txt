@@ -1,0 +1,20 @@
+﻿capital = 37
+
+
+# 1939 Start #
+1939.1.1 = {
+
+		set_politics = {
+			ruling_party = communism
+			last_election = "1939.5.29"
+			election_frequency = 48
+			elections_allowed = no
+		}
+		set_popularities = {
+			democratic = 20
+			fascism = 0
+			communism = 80
+			neutrality = 0
+		}
+
+}

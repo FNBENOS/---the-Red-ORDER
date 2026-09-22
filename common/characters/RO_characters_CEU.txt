@@ -1,0 +1,23 @@
+characters = {
+
+    ## LEADERS ##
+	
+	CEU_Hans_Modrow = {
+	name = "Hans Modorow"
+	  portraits = {
+	  civilian = {
+				large = "gfx/leaders/GER/Hans.dds"
+  }
+	  }
+	  		country_leader = {
+			ideology = Socialist_Eurasianism
+			traits = {  }
+			desc = ""
+			expire = "2025.1.1.1"
+			id = -1
+		}
+		}
+		
+		
+
+}

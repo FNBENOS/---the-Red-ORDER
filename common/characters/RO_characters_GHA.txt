@@ -1,0 +1,17 @@
+characters = {
+	GHA_Mathieu = {
+		name = "Mathieu Kérékou"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/GHA/Mathieu.dds"
+			}
+		}
+		country_leader = {
+			ideology = socialist
+			traits = { }
+			desc = ""
+			expire = "2025.1.1.1"
+			id = -1
+		}
+	}
+}

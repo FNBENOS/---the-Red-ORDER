@@ -1,0 +1,6 @@
+spriteTypes = {
+      spriteType = {
+		name = "GFX_Red_order_Bookmark"
+		texturefile = "gfx/interface/Red_order_2000.dds"
+	}
+	

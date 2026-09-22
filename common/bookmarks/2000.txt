@@ -1,0 +1,48 @@
+bookmarks = {
+	bookmark = {
+		name = "RED ORDER"
+		desc = "RED_ORDER_BOOKMARK_LOC"
+		date = 2000.1.1.1
+		picture = "GFX_select_date_1936"
+		default_country = "SOV"
+		default = yes
+
+  		
+		
+		USA = {
+			history = USA_ROB_DESC_LOC
+			ideology = liberalism
+			ideas = {
+			}
+			focuses = {
+			}
+			}
+		
+		UKB = {
+			history = UKB_ROB_DESC_LOC
+			ideology = liberalism
+			}
+			
+					PRC = {
+			history = PRC_ROB_DESC_LOC
+			ideology = socialism
+			ideas = {
+			}
+			focuses = {
+			}
+			}
+							SOV = {
+			history = SOV_ROB_DESC_LOC
+			ideology = eurasian_system
+			ideas = {
+
+			}
+			focuses = {
+			SOV_memories_of_world_war_3
+			}
+		            }
+			
+
+	
+		}
+		}

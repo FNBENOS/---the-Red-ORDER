@@ -1,0 +1,33 @@
+
+state={
+	id=1083
+	name="STATE_1083"
+	manpower = 1396600
+	
+	state_category = city
+
+	history={
+		owner = WEU
+		victory_points = {
+			3552 20
+		}
+		buildings = {
+			infrastructure = 3
+			dockyard = 5
+			air_base = 5
+			3552 = {
+				naval_base = 10
+				naval_supply_hub = 1
+				coastal_bunker = 1
+			}
+		}
+		add_core_of = FRA
+		add_core_of = BRI
+	}
+
+	provinces={
+		542 3552 3758 6572
+	}
+
+	local_supplies=0.0 
+}

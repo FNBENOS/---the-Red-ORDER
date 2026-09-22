@@ -1,0 +1,17 @@
+characters = {
+	PRC_Jiang_zemin = {
+		name = "Jiang Zemin"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/PRC/Jiang_Zemin.dds"
+			}
+		}
+		country_leader = {
+			ideology = socialist
+			traits = { }
+			desc = ""
+			expire = "2025.1.1.1"
+			id = -1
+		}
+	}
+}
