@@ -8,6 +8,7 @@ FNB - LEADER
 
 GFX devs = {
 FNB
+KYLO_HD
 
 
 
@@ -26,6 +27,8 @@ FNB
 
 Code devs = {
 FNB
+KYLO_HD
+KIA (Augustus)
 
 
 
