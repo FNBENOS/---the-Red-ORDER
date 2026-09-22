@@ -133,7 +133,7 @@ guiTypes = {
 		{
 			name ="frontend_game_logo"
 			spriteType = "GFX_frontend_game_logo"
-			position = { x= 750 y = 130 }
+			position = { x= 740 y = 130 }
 		}
 		
 	}	
